@@ -1,0 +1,75 @@
+Arrays:
+- Dynamic Arrays
+- Array Lists
+- Bit Arrays
+
+Lists:
+- Singly Linked Lists
+- Doubly Linked Lists
+- Circular Linked Lists
+- Skip Lists
+- Unrolled Linked Lists
+
+Queues:
+- Array-based Queues
+- Linked List-based Queues
+- Priority Queues
+- Double-ended Queues
+- Circular Queues
+- Deque Queues
+
+Trees:
+- Binary Trees
+- AVL Trees
+- Red-Black Trees
+- B-Trees
+- B+ Trees
+- Segment Trees
+- Fenwick Trees
+
+Heaps:
+- Binary Heaps
+- Fibonacci Heaps
+- Binomial Heaps
+
+Hashes:
+- Hash Tables
+- Bloom Filters
+- Counting Bloom Filters
+- Cuckoo Hashes
+
+Graphs:
+- Adjacency Lists
+- Adjacency Matrices
+- Incidence Matrices
+- Object-Oriented Graphs
+
+Sets:
+- Hash Sets
+- Tree Sets
+- Bloom Filter Sets
+- Cuckoo Filter Sets
+
+Strings:
+- Trie of Strings
+- Suffix Trees
+- Suffix Arrays
+- Knuth-Morris-Pratt Algorithm
+
+Matrices:
+- Sparse Matrices
+- Dense Matrices
+- Diagonal Matrices
+- Lower/Upper Triangular Matrices
+- Block Matrices
+
+Other:
+- Bloomier Filter
+- Disjoint-set data structure
+- LRU Cache
+- Self-balancing binary search tree (e.g. AVL tree, red-black tree, AA tree, etc)
+- XOR Linked List
+
+
+Completed:
+Trees - Trie
