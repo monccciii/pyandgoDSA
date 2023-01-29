@@ -1,10 +1,10 @@
-- Searching Algorithms
+Searching Algorithms:
     - Linear Search
     - Binary Search
     - Breadth-First Search
     - Depth-First Search
 
-- Sorting Algorithms
+Sorting Algorithms:
     - Bubble sort
     - insertion sort
     - selection sort
@@ -15,7 +15,7 @@
     - radix sort
     - bucket sort
    
-- Graph Algorithms
+Graph Algorithms:
     - Dijkstra's algorithm
     - Bellman-Ford algorithm
     - A* algorithm
@@ -28,14 +28,14 @@
     - Topological sorting
     - Strongly Connected Components
 
-- Divide and Conquer Algorithms
+Divide and Conquer Algorithms:
     - Merge Sort
     - Quick Sort
     - Binary Search
     - Closest Pair of Points
     - Strassen's Matrix Multiplication
 
-- Dynamic Programming Algorithms
+Dynamic Programming Algorithms:
     - Longest Common Subsequence
     - Edit Distance
     - 0-1 Knapsack Problem
@@ -44,7 +44,7 @@
     - Floyd-Warshall Algorithm
     - Johnson's Algorithm
 
-- Backtracking Algorithms
+Backtracking Algorithms:
     - N-Queens Problem
     - m-Coloring Problem
     - Sudoku Solver
@@ -52,7 +52,7 @@
     - Knight's Tour Problem
     - Maze Generation Algorithm
 
-- Greedy Algorithms
+Greedy Algorithms:
     - Huffman Coding
     - Kruskal's Algorithm
     - Prim's Algorithm
@@ -62,20 +62,20 @@
     - Job Sequencing Problem
     - Coin Change Problem
 
-- Branch and Bound Algorithms
+Branch and Bound Algorithms:
     - Travelling Salesman Problem
     - 0/1 Knapsack Problem
     - Job Sequencing Problem
     - Assignment Problem
 
-- Randomized Algorithms
+Randomized Algorithms:
     - Randomized QuickSort
     - Randomized Select
     - Randomized Hiring
     - Randomized Algorithm for Minimum Cut
     - Randomized Algorithm for Construction of Spanning Tree
 
-- Miscellaneous Algorithms
+Miscellaneous Algorithms:
     - Euclidean Algorithm
     - Karatsuba Algorithm
     - Schönhage-Strassen Algorithm
